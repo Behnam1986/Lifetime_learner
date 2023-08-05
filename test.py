@@ -18,7 +18,7 @@ x=np.array([1,2,3])
 
 #print(x[:,None])
 
-#y=np.array([[1,2,3],[4,5,6]])    #tedade bo'd ro afzayesh dade)
+#y=np.array([[1,2,3],[4,5,6]])       #tedade bo'd ro afzayesh dade)
 #print(y)
 #print(y[:,None])
 
